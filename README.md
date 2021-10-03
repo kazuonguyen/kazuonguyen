@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on <a href="https://kodelang.dev/">Kode</a>
 - 🏫 I'm studying at Ch.Phan Ngọc Hiển Highschool
 - 📫 How to reach me: </br>
-      Facebook:  <a href="https://www.facebook.com/quochung.dev/">quochung.dev</a>
+      Facebook:  <a href="https://www.facebook.com/quochungnguyen.dev/">quochungnguyen.dev</a>
       </br>
       Github: <a href="https://github.com/nguyenquochung2357">nguyenquochung2357</a>
    
