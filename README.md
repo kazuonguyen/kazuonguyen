@@ -7,6 +7,7 @@
       Facebook:  <a href="https://www.facebook.com/quochungnguyen.dev/">quochungnguyen.dev</a>
       </br>
       Github: <a href="https://github.com/nguyenquochung2357">nguyenquochung2357</a>
+  <h1>Skills</h1>
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenquochung2357&show_icons=true&locale=en&layout=compact" alt="nguyenquochung2357" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenquochung2357&show_icons=true&locale=en" alt="nguyenquochung2357" width="410" /></p>
