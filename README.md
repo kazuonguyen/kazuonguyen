@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, guitar and book.
 - 🌱 I’m currently learning guitar, code.
 - 💞️ I’m looking to collaborate on <a href="https://kodelang.dev/">Kode</a>
-- 🏫 I'm studying at Ch.Phan Ngọc Hiển Highschool
+- 🏫 I'm studying at Phan Ngọc Hiển Highschool for the Gifted
 - 📫 How to reach me: </br>
       Facebook:  <a href="https://www.facebook.com/quochungnguyen.dev/">quochungnguyen.dev</a>
       </br>
