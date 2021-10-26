@@ -13,7 +13,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazuonguyen&show_icons=true&locale=en" alt="nguyenquochung2357" width="410" /></p>
 <h1>🔥  Recent GitHub Activity</h1>
   <br/>
-   <a href="https://github.com/kazuonguyen"><img alt="Kazuo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kazuonguyen&theme=react-dark" /></a>
+   <a href="https://github.com/kazuonguyen"><img alt="Kazuo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kazuonguyen&custom_title=Kazuo%20Nguyen's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <!---
