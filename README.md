@@ -8,9 +8,9 @@
       </br>
       Github: <a href="https://github.com/nguyenquochung2357">nguyenquochung2357</a>
   <h1>⚡ Skills</h1>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenquochung2357&show_icons=true&locale=en&layout=compact" alt="nguyenquochung2357" /></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazuonguyen&show_icons=true&locale=en&layout=compact" alt="nguyenquochung2357" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenquochung2357&show_icons=true&locale=en" alt="nguyenquochung2357" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazuonguyen&show_icons=true&locale=en" alt="nguyenquochung2357" width="410" /></p>
 <h1>🔥  Recent GitHub Activity</h1>
   <br/>
    <a href="https://github.com/kazuonguyen"><img alt="Kazuo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kazuonguyen&theme=react-dark" /></a>
